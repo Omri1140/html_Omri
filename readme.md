@@ -1,2 +1,2 @@
 # HTML_Omri
-<h1>Hellow world</h1>
+<h1>Hello world</h1>
